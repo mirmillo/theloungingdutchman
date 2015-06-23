@@ -160,7 +160,41 @@ nav a:hover {
    Author's custom styles
    ========================================================================== */
 
+.heading-section {
+  text-align: center;
+  padding-bottom:80px;
+}
 
+.heading-section h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 48px;
+  color: #333;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.ontap-item {
+  text-align: center;
+}
+
+.icon i {
+  border-radius: 50%;
+  border: 20px solid #f78e21;
+  color: #f78e21;
+  font-size: 28px;
+  line-height: 80px;
+  width: 120px;
+  height: 120px;
+}
+
+.ontap-item h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #333;
+  text-transform: uppercase;
+  margin-top: 25px;
+}
 
 
 
